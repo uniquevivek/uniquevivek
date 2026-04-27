@@ -19,7 +19,7 @@
 - 👨🏻‍💻 I'm currently working as a **Full Stack Django Developer** at Electrocus Solution, Lucknow
 - 🚀 I'm building scalable web apps and exploring **Next.js**, **TypeScript** & **Microservices**
 - 🤖 Hands-on experience with **Arduino, ESP32 & Raspberry Pi** for IoT automation projects
-- 🏆 Mentored **5+ trainees** in web & digital technologies with 100% successful project delivery
+- 🏆 Mentored **25+ trainees** in web & digital technologies with 100% successful project delivery
 - 💬 Ask me about **Django, REST APIs, MySQL, Node.js** or anything backend!
 - 📫 How to reach me: v.k.26012004@gmail.com
 - Connect with me: https://www.linkedin.com/in/vivek-vsharma/
