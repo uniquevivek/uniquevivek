@@ -1,157 +1,69 @@
-<div align="center">
+# <samp> &gt; Hi there, I'm <a href="https://vivekumar.github.io" target="_blank">Vivek Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-# 👋 Hey, I'm Vivek Kumar
+<h3 align="center">Full Stack Developer | Backend Specialist | IoT Enthusiast</h3>
 
-**Full Stack Developer · Backend Specialist · IoT Enthusiast**
+<p align="center">
+<code><a href="mailto:v.k.26012004@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="Mail"></a></code> &nbsp; &nbsp;
+<code><a href="https://www.linkedin.com/in/vivek-kumar" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a></code> &nbsp; &nbsp;
+<code><a href="https://vivekumar.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
+</p>
 
-*Building scalable web applications and smart embedded systems from Lucknow, India 🇮🇳*
+### Glad to see you here! &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-vsharma/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:v.k.26012004@gmail.com)
+<img align="right" alt="GIF" src="https://github.com/vivek-tripathi-9005/vivek-tripathi-9005/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
 
-</div>
+<br />
 
----
+**Talking about Personal Stuffs:**
 
-## 🧑‍💻 About Me
+- 👨🏻‍💻 I'm currently working as a **Full Stack Django Developer** at Electrocus Solution, Lucknow
+- 🚀 I'm building scalable web apps and exploring **Next.js**, **TypeScript** & **Microservices**
+- 🤖 Hands-on experience with **Arduino, ESP32 & Raspberry Pi** for IoT automation projects
+- 🏆 Mentored **5+ trainees** in web & digital technologies with 100% successful project delivery
+- 💬 Ask me about **Django, REST APIs, MySQL, Node.js** or anything backend!
+- 📫 How to reach me: v.k.26012004@gmail.com
+- Connect with me: https://www.linkedin.com/in/vivek-kumar/
 
-I'm a **B.Tech Computer Science** student at University of Lucknow (CGPA: 8.17), currently working as a **Full Stack Django Developer Trainee** at Electrocus Solution. I love turning complex problems into clean, efficient solutions — whether that's a REST API, a database schema, or an IoT prototype running on a Raspberry Pi.
+## Tech Stack
 
-- 🔭 Currently building production-grade Django web apps serving **500+ monthly users**
-- 🌱 Expanding into **Next.js**, **TypeScript**, and **Microservices**
-- 🤖 Hands-on experience with **Arduino, ESP32, Raspberry Pi** for IoT automation
-- 🏆 Mentored **5+ trainees** with 100% successful project delivery
-- 📫 Reach me at **v.k.26012004@gmail.com**
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=plastic&logo=flask&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=plastic&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=plastic&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=plastic&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=plastic&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=plastic&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-CC3333?style=plastic&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=plastic&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878A?style=plastic&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=plastic&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=plastic&logo=espressif&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=plastic&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=plastic&logo=jsonwebtokens&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23E44D26.svg?style=plastic&logo=oop&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-%2343853D.svg?style=plastic&logo=algorithms&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=plastic&logo=tensorflow&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=plastic&logo=canva&logoColor=white)
 
----
+## 📈 **My GitHub Stats:**
 
-## 🛠️ Tech Stack
+| ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=uniquevivek&bg_color=FFFFFF&color=36454F&line=fb8c00&point=fb8c00&hide_border=true&custom_title=Contribution%20Graph) |
+| --- |
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frameworks & Libraries
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### IoT & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📋 [Task Management System](https://github.com)
-> Full-stack task platform with JWT auth, HTTP-only cookies, and role-based task isolation
-
-**Stack:** `Next.js` `TypeScript` `Prisma` `MySQL` `JWT` `Tailwind CSS`
-
-- Secure JWT-based authentication with HTTP-only cookie session handling
-- RESTful APIs with CRUD, filtering, search, and paginated data retrieval
-- Scalable database schema ensuring efficient user-level task isolation
-
----
-
-### 🔗 [URL Shortener (MERN Stack)](https://github.com)
-> Scalable URL shortening service with click analytics tracking
-
-**Stack:** `React` `Node.js` `Express.js` `MongoDB` `Mongoose` `Vite`
-
-- Converts long URLs to compact links with seamless redirection
-- Tracks click analytics per shortened link
-- Modular backend with optimized API integration on the frontend
-
----
-
-### 🏢 [Electrocus Company Website](https://github.com)
-> Responsive company website with 6+ functional sections
-
-**Stack:** `Django` `Bootstrap 5` `HTML` `CSS` `JavaScript`
-
-- Covers automation, labs, software panels, and contact modules
-- Fully responsive across devices
-
----
-
-### 🎓 [Certification Verification System](https://github.com)
-> Secure platform validating 1,000+ certificates via unique verification IDs
-
-**Stack:** `Django` `MySQL` `Tailwind CSS` `HTML` `CSS` `JavaScript`
-
-- Architected and deployed a tamper-resistant certificate lookup system
-- Handles large-scale verification with efficient DB queries
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquevivek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquevivek&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏅 Achievements & Recognition
-
-- 🎤 Attended **International Conference on Computational Intelligence & Cyber Security (ICCICS-2023)**
-- 🤖 Completed **AI/ML training under Samsung Innovation Classes** with hands-on practical learning
-- 👨‍🏫 Mentored **5+ trainees** in web and digital technologies — 100% project delivery rate
-- 🌐 Built and maintained apps serving **500+ monthly users**
-- ⚙️ Assembled **6+ IoT prototypes** and executed **5+ sensor-based automation projects**
-
----
-
-## 📊 Experience Timeline
-
-```
-2020 ──── Diploma in Information Technology @ Hewett Polytechnic, Lucknow
-           └─ Percentage: 75.36%
-
-2023 ──── B.Tech in Computer Science & Engineering @ University of Lucknow
-           └─ CGPA: 8.17 (Ongoing)
-
-2024 Jan ─ IoT & Embedded Systems Training @ Electrocus Solution
-           └─ Arduino · ESP32 · Raspberry Pi · ThingSpeak · Blynk
-
-2024 Jul ─ Full Stack Django Developer Trainee @ Electrocus Solution
-           └─ Django · MySQL · REST APIs · React · GitHub (100+ commits)
-```
-
----
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad." — Cory House*
-
-⭐ **If you find my work interesting, feel free to star a repo or drop a message!**
-
-</div>
+| ![Vivek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=uniquevivek&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquevivek&show_icons=true&hide_border=true&layout=compact&langs_count=10) |
+| --- | --- |
