@@ -112,9 +112,9 @@ I'm a **B.Tech Computer Science** student at University of Lucknow (CGPA: 8.17),
 
 <div align="center">
 
-![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Vivek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquevivek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquevivek&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
