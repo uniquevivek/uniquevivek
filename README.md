@@ -1,11 +1,11 @@
-# <samp> &gt; Hi there, I'm <a href="https://vivekumar.github.io" target="_blank">Vivek Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# <samp> &gt; Hi there, I'm <a href="https://viveeksharma.pythonanywhere.com/" target="_blank">Vivek Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
 <h3 align="center">Full Stack Developer | Backend Specialist | IoT Enthusiast</h3>
 
 <p align="center">
 <code><a href="mailto:v.k.26012004@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="Mail"></a></code> &nbsp; &nbsp;
-<code><a href="https://www.linkedin.com/in/vivek-kumar" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a></code> &nbsp; &nbsp;
-<code><a href="https://vivekumar.github.io/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
+<code><a href="https://www.linkedin.com/in/vivek-vsharma/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a></code> &nbsp; &nbsp;
+<code><a href="https://viveeksharma.pythonanywhere.com/"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/site.svg" width="30px" alt="Website"></a></code> &nbsp; &nbsp;
 </p>
 
 ### Glad to see you here! &nbsp;
@@ -22,7 +22,7 @@
 - 🏆 Mentored **5+ trainees** in web & digital technologies with 100% successful project delivery
 - 💬 Ask me about **Django, REST APIs, MySQL, Node.js** or anything backend!
 - 📫 How to reach me: v.k.26012004@gmail.com
-- Connect with me: https://www.linkedin.com/in/vivek-kumar/
+- Connect with me: https://www.linkedin.com/in/vivek-vsharma/
 
 ## Tech Stack
 
