@@ -1,5 +1,5 @@
 # <samp> &gt; Hi there, I'm <a href="https://viveeksharma.pythonanywhere.com/" target="_blank">Vivek Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
-
+ 
 <h3 align="center">Full Stack Developer | Backend Specialist | IoT Enthusiast</h3>
 
 <p align="center">
