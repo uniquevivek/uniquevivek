@@ -10,7 +10,7 @@
 
 ### Glad to see you here! &nbsp;
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/uniquevivek/uniquevivek/refs/heads/main/assests/coding.gif" width="408" height="300" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/uniquevivek/uniquevivek/refs/heads/main/assests/Gemini_Generated_Image_aanvtuaanvtuaanv.png" width="408" height="408" />
 
 <br />
 
