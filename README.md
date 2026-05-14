@@ -1,6 +1,6 @@
 # <samp> &gt; Hi there, I'm <a href="https://viveeksharma.pythonanywhere.com/" target="_blank">Vivek Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
  
-<h3 align="center">Full Stack Developer | Backend Specialist | IoT Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Backend Specialist | IoT Enthusiast | Python Developer </h3>
 
 <p align="center">
 <code><a href="mailto:v.k.26012004@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="Mail"></a></code> &nbsp; &nbsp;
